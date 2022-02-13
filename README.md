@@ -220,8 +220,5 @@ font-size: large;
 ![output](./output.png)
 ![output](./output1.png)
 
-### Home Page:
-
-
 ## Result:
 Thus a Mathmetical Calculation website is created using Angular.
